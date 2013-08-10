@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+.svn
+*~
+.*.swp
+!.gitignore
+.ruby-gemset
+.ruby-version
